@@ -1,0 +1,14 @@
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\bin\Debug\netcoreapp2.2\Sitefinity-Performance-Test.deps.json
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\bin\Debug\netcoreapp2.2\Sitefinity-Performance-Test.runtimeconfig.json
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\bin\Debug\netcoreapp2.2\Sitefinity-Performance-Test.runtimeconfig.dev.json
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\bin\Debug\netcoreapp2.2\Sitefinity-Performance-Test.dll
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\obj\Debug\netcoreapp2.2\Sitefinity-Performance-Test.csprojAssemblyReference.cache
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\obj\Debug\netcoreapp2.2\Sitefinity-Performance-Test.csproj.CoreCompileInputs.cache
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\obj\Debug\netcoreapp2.2\Sitefinity-Performance-Test.RazorAssemblyInfo.cache
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\obj\Debug\netcoreapp2.2\Sitefinity-Performance-Test.RazorAssemblyInfo.cs
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\obj\Debug\netcoreapp2.2\Sitefinity-Performance-Test.AssemblyInfoInputs.cache
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\obj\Debug\netcoreapp2.2\Sitefinity-Performance-Test.AssemblyInfo.cs
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\obj\Debug\netcoreapp2.2\Sitefinity-Performance-Test.RazorTargetAssemblyInfo.cache
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\bin\Debug\netcoreapp2.2\Sitefinity-Performance-Test.pdb
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\obj\Debug\netcoreapp2.2\Sitefinity-Performance-Test.dll
+C:\Users\steve.000\Documents\DevFolder\Sitefinity-Performance-Test\Sitefinity-Performance-Test\obj\Debug\netcoreapp2.2\Sitefinity-Performance-Test.pdb
