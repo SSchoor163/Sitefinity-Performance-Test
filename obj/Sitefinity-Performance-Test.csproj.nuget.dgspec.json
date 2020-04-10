@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steve.000\\Documents\\DevFolder\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test.csproj": {}
+    "C:\\Users\\steve.000\\Documents\\DevFolder\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steve.000\\Documents\\DevFolder\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test.csproj": {
+    "C:\\Users\\steve.000\\Documents\\DevFolder\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steve.000\\Documents\\DevFolder\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test.csproj",
+        "projectUniqueName": "C:\\Users\\steve.000\\Documents\\DevFolder\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test.csproj",
         "projectName": "Sitefinity-Performance-Test",
-        "projectPath": "C:\\Users\\steve.000\\Documents\\DevFolder\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test.csproj",
+        "projectPath": "C:\\Users\\steve.000\\Documents\\DevFolder\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test.csproj",
         "packagesPath": "C:\\Users\\steve.000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steve.000\\Documents\\DevFolder\\Sitefinity-Performance-Test\\Sitefinity-Performance-Test\\obj\\",
+        "outputPath": "C:\\Users\\steve.000\\Documents\\DevFolder\\Sitefinity-Performance-Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
